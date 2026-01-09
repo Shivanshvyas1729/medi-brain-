@@ -3,3 +3,4 @@ uvicorn
 pillow
 ultralytics==8.3.0
 torch
+python-multipart
